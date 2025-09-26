@@ -1,0 +1,148 @@
+{
+  "MONDAY": [
+    {
+      "day": "Luni",
+      "hour": "08.00",
+      "discipline": "Matematica 1",
+      "lessonType": "Seminar",
+      "aud": "513",
+      "professor": "Rotari T. V."
+    },
+    {
+      "day": "Luni",
+      "hour": "09.45",
+      "discipline": "Matematica 1",
+      "lessonType": "Prelegere",
+      "aud": "505",
+      "professor": "Negara C."
+    },
+    {
+      "day": "Luni",
+      "hour": "11.30",
+      "discipline": "Structuri discrete",
+      "lessonType": "Prelegere",
+      "aud": "143",
+      "professor": "Ticau V."
+    }
+  ],
+  "TUESDAY": [
+    {
+      "day": "Marti",
+      "hour": "11.30",
+      "discipline": "Limba engleza 1",
+      "lessonType": "Laborator",
+      "aud": "406",
+      "professor": "L. Cosulean"
+    },
+    {
+      "day": "Marti",
+      "hour": "13.15",
+      "discipline": "Structuri discrete",
+      "lessonType": "Laborator",
+      "aud": "150",
+      "professor": "Ticau V."
+    },
+    {
+      "day": "Marti",
+      "hour": "15.00",
+      "discipline": "Informatica aplicata",
+      "lessonType": "Prelegere",
+      "aud": "141",
+      "professor": "Plohotniuc E."
+    },
+    {
+      "day": "Marti",
+      "hour": "15.00",
+      "discipline": "Informatica aplicata",
+      "lessonType": "Prelegere",
+      "aud": "141",
+      "professor": "Plohotniuc E."
+    }
+  ],
+  "WEDNESDAY": [
+    {
+      "day": "Miercuri",
+      "hour": "08.00",
+      "discipline": "Bazele programarii",
+      "lessonType": "Laborator",
+      "aud": "141",
+      "professor": "Skutnitki O."
+    },
+    {
+      "day": "Miercuri",
+      "hour": "09.45",
+      "discipline": "Bazele programarii",
+      "lessonType": "Prelegere",
+      "aud": "141",
+      "professor": "Skutnitki O."
+    },
+    {
+      "day": "Miercuri",
+      "hour": "11.30",
+      "discipline": "Bazele programarii",
+      "lessonType": "Prelegere",
+      "aud": "141",
+      "professor": "Skutnitki O."
+    }
+  ],
+  "THURSDAY": [
+    {
+      "day": "Joi",
+      "hour": "09.45",
+      "discipline": "Proiectarea și dezvoltarea interfețelor Web",
+      "lessonType": "Laborator",
+      "aud": "143",
+      "professor": "coord. CMI"
+    },
+    {
+      "day": "Joi",
+      "hour": "11.30",
+      "discipline": "Limba engleza 1",
+      "lessonType": "Laborator",
+      "aud": "406",
+      "professor": "L. Cosulean"
+    },
+    {
+      "day": "Joi",
+      "hour": "09.45",
+      "discipline": "Proiectarea și dezvoltarea aplicațiilor Web",
+      "lessonType": "Prelegere",
+      "aud": "141",
+      "professor": "Chilat S."
+    }
+  ],
+  "FRIDAY": [
+    {
+      "day": "Vineri",
+      "hour": "08.00",
+      "discipline": "Securitatea muncii. Protecția civilă",
+      "lessonType": "Prelegere",
+      "aud": "463",
+      "professor": "Pereteatcu P."
+    },
+    {
+      "day": "Vineri",
+      "hour": "09.45",
+      "discipline": "Proiectarea și dezvoltarea interfețelor Web",
+      "lessonType": "Laborator",
+      "aud": "143",
+      "professor": "coord. CMI"
+    },
+    {
+      "day": "Vineri",
+      "hour": "11.30",
+      "discipline": "Structuri discrete",
+      "lessonType": "Seminar",
+      "aud": "141",
+      "professor": "Ticau V."
+    },
+    {
+      "day": "Vineri",
+      "hour": "11.30",
+      "discipline": "Bazele programari 1",
+      "lessonType": "Prelegere",
+      "aud": "141",
+      "professor": "Skutnitki O."
+    }
+  ]
+}

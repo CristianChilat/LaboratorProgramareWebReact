@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+.day-name {
+    text-align: center;
+    font-weight: bold;
+}
+
+.lessons-info {
+    text-align: center;
+}
