@@ -1,0 +1,35 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em;
+    margin: 1em 2em;
+}
+
+.buttonSide{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 3em;
+}
+
+.buttonSide div {
+    font-weight: 500;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.buttonSide div:hover {
+    text-decoration: underline;
+    cursor: wait;
+    opacity: 70%;
+}
+
+.signUpButton {
+    background-color: black;
+    color: white;
+    padding: 0.8em;
+    border-radius: 7px;
+}

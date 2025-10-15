@@ -1,0 +1,57 @@
+.newProductsContainer {
+    margin: 3em 5em;
+    display: flex;
+    flex-direction: column;
+    gap: 6em;
+}
+
+.sectionLabel {
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.productsImagesContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.imageContainer img {
+    width: 30em;
+    height: 40em;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.imageContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.imageContainer strong {
+    font-size: 2em;
+    font-weight: 500;
+}
+
+
+.descriptionContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.descriptionContainer div div {
+    font-size: 1.5em;
+    font-weight: 500;
+    color: #7F7F7F;
+}
+
+.descriptionQuote {
+
+}
+
+.arrowDescriptionElement {
+    font-size: 3em;
+}

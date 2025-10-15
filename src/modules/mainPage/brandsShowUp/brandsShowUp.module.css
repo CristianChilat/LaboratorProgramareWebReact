@@ -1,0 +1,14 @@
+.container {
+    background-color: #EBD96B;
+    height: 12em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container img {
+    width: 10em;
+    height: 5em;
+    object-fit: cover;
+}
