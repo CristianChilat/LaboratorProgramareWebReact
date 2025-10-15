@@ -9,7 +9,8 @@ function NewProducts() {
                 NEW ARRIVALS
             </h2>
             <div className={styles.productsImagesContainer}>
-                {imagesData.map((item, index) => (
+                {
+                    imagesData.map((item, index) => (
                     <div key={index} className={styles.imageContainer}>
                         <img src={item.image} alt=""/>
                         <div className={styles.descriptionContainer}>
