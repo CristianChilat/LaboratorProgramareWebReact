@@ -23,7 +23,7 @@
 
 .buttonSide div:hover {
     text-decoration: underline;
-    cursor: wait;
+    cursor: pointer;
     opacity: 70%;
 }
 
