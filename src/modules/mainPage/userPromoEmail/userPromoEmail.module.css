@@ -1,0 +1,53 @@
+.userPromoEmailContainer {
+    background-color: #E5C643;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4em;
+    padding: 10em 0;
+}
+
+.userPromoEmailLabel {
+    color: white;
+    text-align: center;
+    font-size: 3.5em;
+    font-weight: 900;
+}
+
+.userInputContainer {
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+ }
+
+.userInputSuggestion {
+    color: #FFFCF8;
+    font-size: 2em;
+}
+
+.userEmailInput {
+    padding: 1em;
+    background-color: transparent;
+    border: none;
+    font-size: 1.5em;
+}
+
+.sendEmailButton {
+    padding: 1em 2em;
+    margin: 1em;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.sendEmailButton strong {
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.sendEmailButton:hover {
+    cursor: pointer;
+    opacity: 70%;
+}
