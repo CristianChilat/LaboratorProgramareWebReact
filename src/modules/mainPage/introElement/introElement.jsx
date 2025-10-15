@@ -5,12 +5,12 @@ function IntroElement() {
 	return (
 		<div className={styles.container}>
 			<div className={styles.infoContainer}>
-				<div className={styles.elementHeader}>
+				<h1 className={styles.elementHeader}>
 					LET’S <br/>
 					EXPLORE <br/>
 					UNIQUE <br/>
 					CLOTHES. <br/>
-				</div>
+				</h1>
 				<div className={styles.secondaryText}>
 					Live for Influential and Innovative fashion!
 				</div>

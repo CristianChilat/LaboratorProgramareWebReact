@@ -3,10 +3,10 @@ import styles from './userPromoEmail.module.css';
 function UserPromoEmail() {
 	return (
 		<div className={styles.userPromoEmailContainer}>
-			<div className={styles.userPromoEmailLabel}>
+			<h2 className={styles.userPromoEmailLabel}>
 				JOIN SHOPPING COMMUNITY TO <br/>
 				GET MONTHLY PROMO
-			</div>
+			</h2>
 			<div className={styles.userInputSuggestion}>
 				Type your email down below and be young wild generation
 			</div>

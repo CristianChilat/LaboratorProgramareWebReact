@@ -5,6 +5,7 @@ import IntroElement from './modules/mainPage/introElement/introElement'
 import BrandsShowUp from "./modules/mainPage/brandsShowUp/brandsShowUp";
 import NewProducts from './modules/mainPage/newProducts/newProducts';
 import UserPromoEmail from "./modules/mainPage/userPromoEmail/userPromoEmail";
+import SuggestionForYoung from "./modules/mainPage/suggestionForYoung/suggestionForYoung";
 
 // import TableElement from './modules/home/table/index'
 
@@ -18,6 +19,7 @@ function App() {
                 <BrandsShowUp />
                 <NewProducts />
                 <UserPromoEmail />
+                <SuggestionForYoung />
             </section>
         </div>
     );

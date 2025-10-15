@@ -5,9 +5,9 @@ import imagesData from "./imagesData/imagesData";
 function NewProducts() {
     return (
         <div className={styles.newProductsContainer}>
-            <strong className={styles.sectionLabel}>
+            <h2 className={styles.sectionLabel}>
                 NEW ARRIVALS
-            </strong>
+            </h2>
             <div className={styles.productsImagesContainer}>
                 {imagesData.map((item, index) => (
                     <div key={index} className={styles.imageContainer}>
