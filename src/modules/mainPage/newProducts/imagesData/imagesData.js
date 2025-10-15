@@ -1,6 +1,6 @@
-import firstImage from '../images/firstImage.jpg';
-import secondImage from '../images/secondImage.jpg';
-import thirdImage from '../images/thirdImage.jpg';
+import firstImage from '../images/firstNewProduct.png';
+import secondImage from '../images/secondNewProduct.png';
+import thirdImage from '../images/thirdNewProduct.png';
 
 const imagesData = [
 	{
