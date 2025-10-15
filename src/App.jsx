@@ -6,6 +6,7 @@ import BrandsShowUp from "./modules/mainPage/brandsShowUp/brandsShowUp";
 import NewProducts from './modules/mainPage/newProducts/newProducts';
 import UserPromoEmail from "./modules/mainPage/userPromoEmail/userPromoEmail";
 import SuggestionForYoung from "./modules/mainPage/suggestionForYoung/suggestionForYoung";
+import Footer from "./modules/mainPage/footer/footer";
 
 // import TableElement from './modules/home/table/index'
 
@@ -20,6 +21,7 @@ function App() {
                 <NewProducts />
                 <UserPromoEmail />
                 <SuggestionForYoung />
+                <Footer />
             </section>
         </div>
     );
